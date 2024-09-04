@@ -4297,6 +4297,10 @@ input, select, textarea {
 			font-size: 0.8rem;
 		}
 
+		.split.contact p {
+			text-align: center;
+		}
+
 		@media screen and (max-width: 980px) {
 
 			#footer {
